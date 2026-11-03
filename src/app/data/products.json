@@ -86,5 +86,49 @@
     "description": "Giant, durable pool float that makes summer afternoons more fun.",
     "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=600",
     "category": "Beach"
+  },
+  {
+    "id": 9,
+    "name": "Flip Flop Sandals",
+    "brand": "SandyFeet",
+    "price": 9,
+    "rating": 4.1,
+    "stock": 50,
+    "description": "Soft cushioned flip flops with a non-slip sole, perfect for beach and poolside.",
+    "image": "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=600",
+    "category": "Footwear"
+  },
+  {
+    "id": 10,
+    "name": "Insulated Water Bottle",
+    "brand": "HydroCool",
+    "price": 16,
+    "rating": 4.7,
+    "stock": 35,
+    "description": "Stainless steel bottle that keeps drinks ice cold for 24 hours. Stay hydrated all day.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=600",
+    "category": "Accessories"
+  },
+  {
+    "id": 11,
+    "name": "Beach Tote Bag",
+    "brand": "BeachVibe",
+    "price": 14,
+    "rating": 4.4,
+    "stock": 22,
+    "description": "Spacious waterproof tote bag for towels, sunscreen and all your beach essentials.",
+    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=600",
+    "category": "Beach"
+  },
+  {
+    "id": 12,
+    "name": "Linen Beach Shorts",
+    "brand": "CoolWear",
+    "price": 19,
+    "rating": 4.5,
+    "stock": 28,
+    "description": "Lightweight quick-dry linen shorts with an elastic waist for all-day summer comfort.",
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=600",
+    "category": "Clothing"
   }
 ]
